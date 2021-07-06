@@ -28,5 +28,5 @@
 5. 🔗protobuf：3.17.3
 6. 🔍grpc-server-spring-boot-starter：2.11.0.RELEASE
 7. 🔎grpc-client-spring-boot-starter：2.11.0.RELEASE
-8. 💻操作系统：macOS BigSur 11.4
+8. 💻: macOS BigSur 11.4 M1 mbp13
 9. 🔧IDEA：2021.1.1 (Ultimate Edition)
