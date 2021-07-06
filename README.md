@@ -22,7 +22,7 @@
    整个系列文章涉及的依赖库和开发环境的情况如下：
 
 1. 🚗JDK：11.0.10
-2. 👷gradle：6.8.0
+2. 👷gradle：7.0.2
 3. 📎springboot：2.3.8.RELEASE
 4. 🔍grpc：1.39.0
 5. 🔗protobuf：3.17.3
